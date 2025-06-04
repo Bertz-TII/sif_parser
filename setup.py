@@ -38,8 +38,8 @@ setup(name='sif_parser',
       py_modules=['sif_parser.__init__'],
       test_suite='testings',
       install_requires=[
-        'numpy>=1.10',
-        'pandas'],
+        'numpy>=1.10'
+      ],
       classifiers=['License :: OSI Approved :: BSD License',
                    'Natural Language :: English',
                    'Operating System :: MacOS :: MacOS X',
